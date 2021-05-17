@@ -1,0 +1,31 @@
+body {
+  background-color: #ffcb6ed9;
+}
+
+h1 {
+  color: #80407d;
+  font-family: "CAC Pinafore", cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #80407d;
+  font-family: "CAC Pinafore", cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-family: "helveticaneue-light";
+  font-size: 15px;
+  text-align: center;
+}
+
+
+ol,ul,li {
+  font-family: "helveticaneue-light";
+  font-size: 15px;
+  text-align: center;
+  padding: 5px 15px
+}
